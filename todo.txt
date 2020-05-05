@@ -1,0 +1,14 @@
+1: make the cypher work and actually encrypt stuff. goes in the event call for it since it would reduce lag COMPLETE!!!!!
+1.5: switch board 
+2: make it so that the gui is screen based with some math
+3: vigarous testing
+4:debug var to allow for more indepth stuff? COMPLETE!!!
+5:a meta record that records the exact state of the machine to a .txt that includes rotor positions and letter encoded (
+
+  1:rotors=[0, 0, 1]
+  //Also reflector value
+  2:A > N
+  3: end of step one
+  //repeat on until the person clicks the stop recording button
+)
+6: work directory orginization
